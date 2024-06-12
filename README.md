@@ -1,6 +1,6 @@
 <div align="center">meow</div>
 
-<p align="center"><img width="866" height="133" src="https://github.com/neneplushie/neneplushie/assets/143755658/230f8ed9-235c-4b28-9810-15db3f0d748e
+<p align="center"><img width="400" height="400" src="https://github.com/neneplushie/neneplushie/assets/143755658/35dc0b21-9d3e-41b8-8994-278309f67990
 "></p>
 
 <div align="center">pls interact I am cool !!</div>

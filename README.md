@@ -8,6 +8,6 @@
 
 <div align="center">do not copy / take heavy inspo (I will cry)</div>
 
-<div align="center">I'm mainly in the cookie run or rhythm game area !</div>
+<div align="center">I'm somewhere in between the pjsk and crk area, or I just wander !</div>
 </br>
 <p align="center"><img width="300" height="21" src="https://github.com/user-attachments/assets/fc162928-e50a-4e74-9da4-8ec9e1a82e6f"></p>

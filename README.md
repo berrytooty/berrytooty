@@ -6,7 +6,7 @@
 
 <div align="center">You should definitely interact with me... I'm berry cool !!</div>
 
-<div align="center">I'm usually at the Whimisican Pumpkin™, also known as Syn, or I just wander around !</div>
+<div align="center">I'm usually at the Whimisican Pumpkin or I just wander around !</div>
 
 <div align="center">La La La La</div>
 
